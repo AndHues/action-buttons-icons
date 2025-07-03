@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"
+     role="img" aria-labelledby="uploadDevilTitle">
+  <title id="uploadDevilTitle">Upload Vid Icon</title>
+  <!-- grey square background -->
+  <rect x="2" y="2" width="20" height="20" rx="4" fill="#D1D5DB"/>
+  <!-- play button -->
+  <path d="M9 8l6 4-6 4V8z" fill="#6B7280"/>
+  <!-- horns -->
+  <polygon points="6,2 8,2 7,5" fill="#374151"/>
+  <polygon points="16,2 18,2 17,5" fill="#374151"/>
+  <!-- tail -->
+  <path d="M20 20 l4 4" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <circle cx="24" cy="24" r="1.5" fill="#374151"/>
+</svg>
