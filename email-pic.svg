@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"
+     role="img" aria-labelledby="emailPicTitle">
+  <title id="emailPicTitle">Email Pic Upload Icon</title>
+  <!-- dark red background -->
+  <rect x="2" y="2" width="20" height="20" rx="4" fill="#7F1D1D"/>
+  <!-- arrow up -->
+  <line x1="12" y1="16" x2="12" y2="8" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <polyline points="8 12 12 8 16 12" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
